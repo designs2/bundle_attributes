@@ -35,7 +35,7 @@
 		"issues":"https://github.com/MetaModels/bundle_attributes/issues",
 		"wiki":"http://de.contaowiki.org/MetaModels",
 		"irc":"irc://irc.freenode.org/contao.mm",
-		"source":"https://github.com/MetaModels/bundle_attributes"
+		"source":"https://github.com/designs2/bundle_attributes"
 	},
 	"require":{
 		"designs2/bundle_translated":"*",
