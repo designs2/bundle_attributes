@@ -38,14 +38,14 @@
 		"source":"https://github.com/designs2/bundle_attributes"
 	},
 	"require":{
-		"designs2/bundle_translated":"*",
-		"designs2/bundle_nontranslated":"*",
-		"designs2/attribute_combinedvalues":"*",
-		"designs2/attribute_country":"*",
-		"designs2/attribute_decimal":"*",
-		"designs2/attribute_langcode":"*",
-		"designs2/attribute_numeric":"*",
-		"designs2/attribute_timestamp":"*",
-		"designs2/attribute_url":"*"
+		"designs2/bundle_translated":"dev-master",
+		"designs2/bundle_nontranslated":"dev-master",
+		"designs2/attribute_combinedvalues":"dev-master",
+		"designs2/attribute_country":"dev-master",
+		"designs2/attribute_decimal":"dev-master",
+		"designs2/attribute_langcode":"dev-master",
+		"designs2/attribute_numeric":"dev-master",
+		"designs2/attribute_timestamp":"dev-master",
+		"designs2/attribute_url":"dev-master"
 	}
 }
